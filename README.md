@@ -24,13 +24,13 @@ I am building small projects along the way to apply the concepts I learn and to 
 ---
 
 ## 📺 Credits
-A huge thanks to **[Hitesh Choudhary Sir] (https://chaicode.com) ** for creating such an easy-to-follow and beginner-friendly React series **Chai aur React**.  
+A huge thanks to Hitesh Choudhary Sir (https://chaicode.com) for creating such an easy-to-follow and beginner-friendly React series **Chai aur React**.  
 His teaching style, practical examples, and real-world approach have made learning React much more enjoyable and effective.
 
 ---
 
 ## 📌 Notes
-This repository is for **learning purposes**. I will keep updating it as I progress in my React journey.  
+This repository is for learning purposes. I will keep updating it as I progress in my React journey.  
 If you’re starting with React, I highly recommend checking out Hitesh Choudhary’s tutorials.
 
 ---
